@@ -7,7 +7,7 @@
 
 ## 🎯 Vision
 
-IsoPhaseLab is an open-source project that transforms an **already-owned WiFi 6 router** into a live RF sensing system. By analyzing signal strength fluctuations, multipath interference, and dielectric perturbations caused by physical objects, we create real-time visualizations and eventually 3D reconstructions — all without extra hardware.
+IsoPhaseLab is an open-source project that transforms an **WiFi 6 router** into a live RF sensing system. By analyzing signal strength fluctuations, multipath interference, and dielectric perturbations caused by physical objects, we create real-time visualizations and eventually 3D reconstructions — all without extra hardware.
 
 Built by an engineer as a viral portfolio piece. **Zero oscilloscopes. Zero lab gear. Just Python, your laptop, and your XB7.**
 
